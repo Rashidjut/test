@@ -1,0 +1,33 @@
+/*style.css*/
+html{
+    font-size: 10px;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 60px;
+    color: #00935f;
+    margin: 0;
+    padding: 20px 0;
+    
+    text-align: center;
+    text-shadow:5px 3px 1px black;
+}
+html{
+    background-color: #00539f;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    background-color: #ff9500;
+    border: 5px solid black;
+}
+li,p{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
